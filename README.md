@@ -14,4 +14,4 @@
   - So, the question mentioned **only about the balance that goes down**, so my logic also followed the same. Hence, I didn't consider the part where the amount increases by the same value. 
   
   For example, 0th month - 100, 1st month - 0, 2nd month - 100
-- As negative balances are not usually in present in the system, I didn't consider that too.
+- As negative balances are not usually in present in the bank savings account system, I didn't consider that too.
